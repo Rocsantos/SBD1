@@ -1,0 +1,11 @@
+Para executar este programa é necessário compila-lo com um compilador de linguagem C.
+Ao compilar é gerado um executável, ao abrir o executável pela primeira vez, é criado
+dois arquivos .bin, os quais se referem à base de dados criados para PESSOA e VEICULO
+cadastrados no sistema.
+
+O executavel apresenta cinco opções, cadastrar pessoa, cadastrar veiculo, listar
+pessoas, listar veiculos e sair. Para cadastrar pessoas deve se preencher o nome
+completo, CPF ou RNE (Registro Nacional de Estrangeiro) da pessoa e CNH caso possua,
+e caso possua o(s) veículo(s). Para cadastrar um veículo é necessário preencher o
+modelo, marca, ano de fabricação, cor, placa, chassi e o cpf ou rne do proprietário
+do veículo.
